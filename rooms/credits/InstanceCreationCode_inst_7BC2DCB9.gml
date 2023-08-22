@@ -1,0 +1,1 @@
+sound = credits_sound

@@ -1,0 +1,1 @@
+sound = bgm2_sound

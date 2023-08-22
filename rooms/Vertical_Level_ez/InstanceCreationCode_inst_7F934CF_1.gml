@@ -1,0 +1,1 @@
+sound = rise_bgm
